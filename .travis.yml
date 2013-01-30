@@ -1,0 +1,2 @@
+before_install: "npm install -g esparse-cl2"
+script: "lein test"
