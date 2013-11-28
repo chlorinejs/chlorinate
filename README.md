@@ -9,7 +9,7 @@ Chlorinate uses [esprima](https://github.com/ariya/esprima) through [esparse-cl2
 You need `esparse-cl2` installed before running tests or converting files.
 
 ```bash
-sudo npm install -g esparse-cl2
+npm install -g esparse-cl2
 ```
 
 For more information see the Chlorine [wiki](https://github.com/chlorinejs/chlorine/wiki).
